@@ -6,7 +6,7 @@
 ![Product Presentation Image](/src/assets/img/boostr_DAO_landing.png)
 
 
-## Boostr -- its a movement.
+## Boostr -- Tap in. Discover. Ignite.
 
 By uniting our efforts, we are providing greater access to advanced technologies and resources. With courage and a commitment to excellence, Boostr is a movement that had to happen. This project is opening up a world of opportunities by fostering innovation with web3 technologies for the masses.
 
